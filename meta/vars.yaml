@@ -1,0 +1,48 @@
+news:
+  title: Ratification Polls are up and running
+  description: Ratification Polls for the April Governance Cycle have now ended. Please visit [Dijets voting portal](https://vote.dijets.io) to vote.
+
+strings:
+  learn: Learn
+  portaldoc: The DIPs Portal
+  primer: Primer for Authors
+  dip0: The DIPs Framework
+  dip51: Monthly Governance Cycle
+  views: Views
+  status: Status
+  rfc: RFC
+  fs: Formal Submission
+  accepted: Accepted
+  obsolete: Obsolete
+  rejected: Rejected
+  withdrawn: Withdrawn
+  coreunits: Core Units
+  allcus: All (DIP38c2)
+  activebudgets: Active Budgets
+  spsinforce: Subproposals in Force
+  archive: Archive
+  living: Living DIPs
+  technical: Technical
+  implemented: Implemented
+  pending: Pending Implementation
+  process: Processes
+  contact: Get in Touch
+  forum: Forum
+  chat: Chat
+reserved:
+  Preamble: Preamble
+  'DIP#': 'DIP#'
+  Title: Title
+  Author(s): Author(s)
+  Contributors: Contributors
+  Type: Type
+  Status: Status
+  Date Proposed: Date Proposed
+  Date Ratified: Date Ratified
+  Last Amended: Last Amended
+  Dependencies: Dependencies
+  Replaces: Replaces
+  References: References
+  Sentence Summary: Sentence Summary
+  Paragraph Summary: Paragraph Summary
+  Component Summary: Component Summary

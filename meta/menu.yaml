@@ -1,0 +1,8 @@
+data:
+  - id: learn
+    name: $learn
+    children:
+      - id: primer
+        name: $primer
+        href: >-
+          https://github.com/lasthyphen/dips/blob/master/meta/primer_for_authors/primer_for_authors.md

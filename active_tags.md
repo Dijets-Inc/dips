@@ -22,10 +22,10 @@
 | cu-gov-001 | GovAlpha Core Unit subproposals (active and inactive) |
 | cu-gro-001 | Growth Core Unit subproposals (active and inactive) |
 | cu-is-001 | Immunefi Security Core Unit subproposals (active and inactive) |
-| cu-mds-001 | MakerDAO Shop Core Unit subproposals (active and inactive) |
+| cu-mds-001 | Dijets Core Unit subproposals (active and inactive) |
 | cu-mkt-001 | Content Production Core Unit subproposals (active and inactive) |
-| cu-mpcu-001 | Maker Portfolio Core Unit subproposals (active and inactive) |
-| cu-ora-001 | Oracles Core Unit subproposals (active and inactive) |
+| cu-mpcu-001 | Dijets Portfolio Core Unit subproposals (active and inactive) |
+| cu-ora-001 | Money Markets Core Unit subproposals (active and inactive) |
 | cu-pe-001 | Protocol Engineering Core Unit subproposals (active and inactive) |
 | cu-risk-001 | Risk Core Unit subproposals (active and inactive) |
 | cu-rwf-001 | Real-World Finance Core Unit subproposals (active and inactive) |

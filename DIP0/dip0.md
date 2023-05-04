@@ -114,7 +114,7 @@ In order for DIPs to be comprehensively functional they need to comply with a ba
 
 **The DIP Lifecycle Flow and DIP Statuses**
 
-![DIPs Lifecycle](/img/dip-lifecycle.svg)
+![DIPs Lifecycle](https://raw.githubusercontent.com/lasthyphen/truffle/develop/lifecycles.svg)
 
 **1. Conception:** The lifecycle of a DIP begins when the DIP proposal is posted on [Dijets forum](https://forum.dijets.io). However, in order for a DIP to move to the next stage, it needs to satisfy the transition criteria (1) described below:
 
@@ -199,7 +199,7 @@ DIP Editor reviews the DIPs directory to see if any of the DIPs meet the status 
 - Subproposals require a template, and are submitted using that template. Subproposals go through the DIPs process in the same way that DIPs do. The template, and frozen period for a set of subproposals are defined using a DIP module known as a Process module. Any DIP containing a Process Module gains the Process type.
 - The subproposal naming convention is DIP**X**m**Y**-**SPZ** where X is the parent DIP containing a module and Y is the Module that contains the subproposal template. This is important in order to delineate between different types of subproposals defined within the same DIP under different Process modules.
    
-![DIPs Lifecycle](/img/naming-convention.svg)
+![DIPs Lifecycle](https://raw.githubusercontent.com/lasthyphen/truffle/develop/conventions.svg)
   
 ---
 

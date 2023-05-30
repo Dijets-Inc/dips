@@ -1,21 +1,14 @@
 strings:
   learn: Aprende
   portaldoc: El Portal de DIP
-  primer: Intro para Autores
   dip0: El Framework de DIP
-  dip51: Ciclo de Gobernanza Mensual
   views: Vistas
   status: Estado
-  rfc: RFC
   fs: Formal Submission
   accepted: Aceptada
   obsolete: Obsoleta
   rejected: Rechazada
   withdrawn: Retirada
-  coreunits: Core Units
-  allcus: Todas (DIP38c2)
-  activebudgets: Presupuestos Activos
-  spsinforce: Subpropuestas en Vigor
   archive: Archivo
   living: Propuestas Registrales
   technical: Técnicas
@@ -34,11 +27,10 @@ reserved:
   Type: Tipo
   Status: Estado
   Date Proposed: Fecha de Proposición
-  Date Ratified: Fecha de Ratificación
   Last Amended: Última Modificación
   Dependencies: Dependencias
   Replaces: Reemplaza
   References: Referencias
   Sentence Summary: Resumen Corto
   Paragraph Summary: Resumen Largo
-  Component Summary: Índice de Componentes
+  Module Summary: Índice de Modules

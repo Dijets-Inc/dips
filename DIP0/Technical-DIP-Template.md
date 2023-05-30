@@ -2,17 +2,15 @@
 
 ## Preamble
 ```
-DIP#: <# to be assigned>
+DIP#: <--# assigned by DIP Editor -->
 Title: <DIP title>
-Author(s): <list of authors' names and/or email addresses and GitHub handles>
-Contributors: <list of contributor's names and/or email addresses and GitHub handles>
-Tags: template
-Type: DIP Type
-Status: <Assigned by DIP Editor>
+Author(s): <Name of the authoring DGC Member>
+Domain: <Ecosystems' Domains it impacts>
+Status: <-- assigned by DIP Editor -->
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 Dependencies: <List of dependent DIPs>
-Replaces: <List of DIP it is replacing>
+Replaces: <List of DIP(s) it is replacing>
 License: <added by DIP Author>
 ```
 ## References
@@ -29,8 +27,7 @@ License: <added by DIP Author>
 
 ## Component Summary
 
-- A description of the purpose of each component in the DIP. Suggest 30 words max per component.
-
+- A description of the purpose of each module contained within the DIP. Suggest 30 words max per component.
 
 ## Motivation
 
@@ -38,24 +35,21 @@ License: <added by DIP Author>
 
 ## Specification
 
-The details of the proposed technical solution. The specification should be detailed enough to allow an implementation team to begin development as well as testing. The specification for technical DIPs must include the following components:
-
+Details of the proposed technical solution. The specification should be detailed enough to allow devs to begin its implementation as well as testing. The specification for technical DIPs must include the following modules:
 
 ### Proposed Code
-   -  The final code that can be used directly in the executive vote to accept or reject the DIP.
 
+   -  The final code that can be used directly in the mandate vote to accept or reject the DIP.
 
 ### Test Cases
-   - For the implementation or testing of the proposed code
+
+   - For the implementation or testing of the proposed code.
 
 ### Security Considerations
 
-   - This is one of the most important aspects of the Technical DIP proposal. The purpose of this section is to proactively document any security-relevant design information, decisions, potential failure modes, implementation details, and important discussions related to the proposed change. This section helps to optimize the DIP process by providing proactive guidance on security considerations when proposing a change that will affect the Dijets Protocol.
+   - The purpose of this section is to proactively document any security-relevant design information, decisions, potential failure modes, implementation details, and the relevant discussions related to the proposed change(s). This section helps to optimise the DIP process by providing proactive guidance on security considerations when proposing a change that could affect Dijets.
+
    - Backwards compatibility
-
-### Auditor Information and Report
-
-   - This section includes the audit partner details and the final audit report for the proposed code.
 
 ### Licensing
    - Recommended licenses for developed code:

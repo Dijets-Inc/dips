@@ -2,17 +2,15 @@
 
 ## Preamble
 ```
-DIP#: <# to be assigned>
+DIP#: <--# to be assigned by DIP Editor-->
 Title: <DIP title>
-Author(s): <list of authors' names and/or email addresses and GitHub handles>
-Contributors:
-Tags: template
-Type: DIP Type
-Status: <Assigned by DIP Editor>
+Author(s): <Name of the authoring DGC Member>
+Domain: <Ecosystems' Domains it impacts>
+Type: <DIP Type>
+Status: <--to be assigned by DIP Editor-->
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
-Dependencies: <List of dependent DIPs>
-Replaces: <List of DIP it is replacing>
+Notes: <-->
 ```
 ## References
 
@@ -26,9 +24,9 @@ Replaces: <List of DIP it is replacing>
 
 - A description of what the Dijets Improvement Proposal (DIP) is focused on. Suggest 100 words max.
 
-## Component Summary
+## Module Summary
 
-- A description of the purpose of each component in the DIP . Suggest 30 words max per component.
+- A description of the purpose of each module in the DIP . Suggest 30 words max per module.
 
 ## Motivation
 

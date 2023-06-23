@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-DIP2m2-SP#: #
+DIP#: #
 DIP to be amended: <DIP#>
 Author(s):
 Status: 

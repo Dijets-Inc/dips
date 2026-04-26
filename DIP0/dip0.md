@@ -21,7 +21,7 @@ Replaces: n/a
 
 DIP0 defines and describes the DIPs Framework. 
 
-## Paragraph Summary
+## Para Summaries
 
 DIP0 is the genesis proposal describing the DIPs Framework. This includes the core components and statuses as well as the various DIP types and the overall DIP lifecycle. Furthermore, it provides the necessary tools, such as DIP templates, replacement processes, and dependencies. DIP0 also provides details for the key roles of the framework, the DIP Editor and the Governance Arbiter along with the process for adding and removing them.
 
